@@ -1,16 +1,24 @@
 # AI StudyMate
 
-An AI-powered learning assistant that helps students understand concepts, summarize notes, generate quizzes, prepare for viva examinations, and organize their study routine.
+> **AI-powered learning assistant for smarter studying and exam preparation.**
 
-## ● Project Overview
+**Live Demo:** https://ai-studymate-alpha.vercel.app
+
+---
+
+## Project Overview
 
 AI StudyMate is a web application developed to simplify the learning process for students. It combines multiple AI-powered study tools into a single platform, allowing users to improve their understanding of academic topics and prepare more effectively for examinations.
 
-## ● Problem Statement
+---
+
+## Problem Statement
 
 Students often struggle with lengthy notes, exam preparation, and managing their study schedule. AI StudyMate addresses these challenges by providing intelligent tools that save time, improve productivity, and support effective learning.
 
-## ● Target Users
+---
+
+## Target Users
 
 - University Students
 - College Students
@@ -18,18 +26,24 @@ Students often struggle with lengthy notes, exam preparation, and managing their
 - Self-Learners
 - Exam Candidates
 
-## ● Features
+---
 
-- AI Chat Assistant
-- Notes Summary Generator
-- Quiz Generator
-- Viva Question Generator
-- Study Planner
-- History Tracking
+## Features
 
-## ● AI Features
+| Feature | Description |
+|---------|-------------|
+| AI Chat Assistant | Ask study-related questions and receive AI-generated answers |
+| Notes Summary Generator | Convert lengthy notes into simple and easy-to-understand summaries |
+| Quiz Generator | Generate quizzes for exam preparation and self-assessment |
+| Viva Question Generator | Practice AI-generated viva questions |
+| Study Planner | Organize daily study schedules |
+| History Tracking | Save and review previous activities |
 
-The application uses Groq AI to:
+---
+
+## AI Features
+
+The application uses **Groq AI** to:
 
 - Answer study-related questions
 - Summarize long notes into simple points
@@ -40,7 +54,9 @@ The application uses Groq AI to:
 
 > You are an AI Study Assistant. Help students understand concepts, summarize study material, generate quizzes, and assist with exam preparation using simple and easy-to-understand language.
 
-## ● Technologies Used
+---
+
+## Technologies Used
 
 - Next.js
 - React.js
@@ -49,7 +65,9 @@ The application uses Groq AI to:
 - Groq AI
 - Vercel
 
-## ● Project Modules
+---
+
+## Project Modules
 
 - AI Chat
 - Notes Summary
@@ -58,7 +76,9 @@ The application uses Groq AI to:
 - Study Planner
 - History
 
-## ● Installation
+---
+
+## Installation
 
 Clone the repository:
 
@@ -78,17 +98,21 @@ Run the project:
 npm run dev
 ```
 
-Open in browser:
+Open in your browser:
 
 ```text
 http://localhost:3000
 ```
 
-## ● Live Demo
+---
+
+## Live Demo
 
 https://ai-studymate-alpha.vercel.app
 
-## ● Screenshots
+---
+
+## Screenshots
 
 ### Landing Page
 
@@ -114,10 +138,14 @@ https://ai-studymate-alpha.vercel.app
 
 ![Quiz Generator](Quiz%20Generator%20Output.png)
 
-## ● Developer
+---
 
-Maryam Jamil
+## Developer
 
-## ● Conclusion
+**Maryam Jamil**
+
+---
+
+## Conclusion
 
 AI StudyMate is an AI-powered learning application that helps students improve learning through AI-assisted conversations, note summarization, quiz generation, viva preparation, and study planning.
