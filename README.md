@@ -2,21 +2,15 @@
 
 An AI-powered learning assistant that helps students understand concepts, summarize notes, generate quizzes, prepare for viva examinations, and organize their study routine.
 
----
-
-# Project Overview
+## ● Project Overview
 
 AI StudyMate is a web application developed to simplify the learning process for students. It combines multiple AI-powered study tools into a single platform, allowing users to improve their understanding of academic topics and prepare more effectively for examinations.
 
----
-
-# Problem Statement
+## ● Problem Statement
 
 Students often struggle with lengthy notes, exam preparation, and managing their study schedule. AI StudyMate addresses these challenges by providing intelligent tools that save time, improve productivity, and support effective learning.
 
----
-
-# Target Users
+## ● Target Users
 
 - University Students
 - College Students
@@ -24,9 +18,7 @@ Students often struggle with lengthy notes, exam preparation, and managing their
 - Self-Learners
 - Exam Candidates
 
----
-
-# Features
+## ● Features
 
 - AI Chat Assistant
 - Notes Summary Generator
@@ -35,9 +27,7 @@ Students often struggle with lengthy notes, exam preparation, and managing their
 - Study Planner
 - History Tracking
 
----
-
-# AI Features
+## ● AI Features
 
 The application uses Groq AI to:
 
@@ -50,9 +40,7 @@ The application uses Groq AI to:
 
 > You are an AI Study Assistant. Help students understand concepts, summarize study material, generate quizzes, and assist with exam preparation using simple and easy-to-understand language.
 
----
-
-# Technologies Used
+## ● Technologies Used
 
 - Next.js
 - React.js
@@ -61,11 +49,7 @@ The application uses Groq AI to:
 - Groq AI
 - Vercel
 
----
-
-# Project Structure
-
-The application contains the following modules:
+## ● Project Modules
 
 - AI Chat
 - Notes Summary
@@ -74,9 +58,7 @@ The application contains the following modules:
 - Study Planner
 - History
 
----
-
-# Installation & Setup
+## ● Installation
 
 Clone the repository:
 
@@ -90,60 +72,52 @@ Install dependencies:
 npm install
 ```
 
-Run the development server:
+Run the project:
 
 ```bash
 npm run dev
 ```
 
-Open in your browser:
+Open in browser:
 
 ```text
 http://localhost:3000
 ```
 
----
-
-# Live Demo
+## ● Live Demo
 
 https://ai-studymate-alpha.vercel.app
 
----
+## ● Screenshots
 
-# Screenshots
-
-## Landing Page
+### Landing Page
 
 ![Landing Page](Landing%20Page.png)
 
-## Dashboard
+### Dashboard
 
 ![Dashboard](Dashboard.png)
 
-## AI Chat
+### AI Chat
 
 ![AI Chat](AI%20Chat%20Response.png)
 
-## Notes Summary
+### Notes Summary
 
 ![Notes Summary](Notes%20Summary%20Output.png)
 
-## Notes Summary (Example 2)
+### Notes Summary (Example 2)
 
-![Notes Summary 2](Notes%20Summary%20Output%20(2).png)
+![Notes Summary](Notes%20Summary%20Output%20(2).png)
 
-## Quiz Generator
+### Quiz Generator
 
 ![Quiz Generator](Quiz%20Generator%20Output.png)
 
----
+## ● Developer
 
-# Developer
+Maryam Jamil
 
-**Maryam Jamil**
+## ● Conclusion
 
----
-
-# Conclusion
-
-AI StudyMate is an AI-powered study assistant that combines multiple educational tools into a single platform. The application helps students learn more efficiently through AI-assisted conversations, note summarization, quiz generation, viva preparation, and study planning.
+AI StudyMate is an AI-powered learning application that helps students improve learning through AI-assisted conversations, note summarization, quiz generation, viva preparation, and study planning.
