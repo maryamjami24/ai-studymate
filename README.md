@@ -60,6 +60,36 @@ The application uses **Groq AI** to:
 - Study Planner
 - History
 
+## Project Structure
+
+```text
+ai-studymate/
+├── app/
+│   ├── api/
+│   ├── chat/
+│   ├── dashboard/
+│   ├── history/
+│   ├── login/
+│   ├── planner/
+│   ├── profile/
+│   ├── quiz/
+│   ├── register/
+│   ├── summary/
+│   ├── viva/
+│   ├── layout.tsx
+│   └── page.tsx
+├── components/
+├── context/
+├── lib/
+├── public/
+├── .gitignore
+├── package.json
+├── package-lock.json
+├── next.config.ts
+├── tsconfig.json
+└── README.md
+```
+
 ##  Installation
 
 Clone the repository:
