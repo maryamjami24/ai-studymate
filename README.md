@@ -1,36 +1,63 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AI StudyMate 🤖
 
-## Getting Started
+AI StudyMate is an AI-powered learning assistant that helps students study smarter using Artificial Intelligence.
 
-First, run the development server:
+## 🚀 Features
+
+- 🤖 AI Chat Assistant
+- 📝 Notes Summary Generator
+- ❓ Quiz Generator
+- 🎤 Viva Question Generator
+- 📅 Study Planner
+- 📜 History Tracking
+
+## 🛠️ Technologies Used
+
+- Next.js
+- React.js
+- Tailwind CSS
+- Firebase Authentication
+- Gemini AI
+
+## 📂 Project Modules
+
+AI StudyMate provides different smart learning tools:
+
+- AI Chat for instant answers
+- Notes Summarizer for converting lengthy notes into simple summaries
+- Quiz Generator for exam preparation
+- Viva Generator for practice questions
+- Study Planner for organizing study routine
+- History for saving previous activities
+
+## ▶️ Run Locally
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the project:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open in browser:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🌐 Live Demo
 
-## Learn More
+https://ai-studymate-alpha.vercel.app
 
-To learn more about Next.js, take a look at the following resources:
+## 👩‍💻 Developer
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Maryam Jamil
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📌 Purpose
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+AI StudyMate helps students with AI-powered tools for learning, exam preparation, note summarization, quiz generation, viva practice, and study planning.
