@@ -1,122 +1,116 @@
-# AI StudyMate 🤖
+# AI StudyMate
 
-AI StudyMate is an AI-powered learning assistant that helps students study smarter using Artificial Intelligence.
+## Project Overview
 
-## 🎯 Problem & Solution
+AI StudyMate is an AI-powered learning assistant developed to help students improve their learning experience. The application allows users to ask study-related questions, summarize lengthy notes, generate quizzes, prepare for viva examinations, and create study plans in one place.
 
-Many students face difficulties in understanding lengthy notes, preparing for exams, creating quizzes, and organizing their study routine.
+## Problem Statement
 
-AI StudyMate solves this problem by providing an AI-powered learning assistant that helps students summarize notes, generate quizzes, practice viva questions, and plan their studies.
+Many students spend a lot of time understanding long notes, preparing for exams, and organizing their studies. AI StudyMate solves this problem by providing intelligent tools that make learning faster, easier, and more organized.
 
-## 👥 Target Users
-
-AI StudyMate is designed for:
+## Target Users
 
 - University students
-- School and college students
-- Learners preparing for exams
+- College students
+- School students
+- Anyone preparing for exams
 
-## 🚀 Features
+## Features
 
-- 🤖 AI Chat Assistant
-- 📝 Notes Summary Generator
-- ❓ Quiz Generator
-- 🎤 Viva Question Generator
-- 📅 Study Planner
-- 📜 History Tracking
+- AI Chat Assistant
+- Notes Summary Generator
+- Quiz Generator
+- Viva Question Generator
+- Study Planner
+- History Tracking
 
-## 📂 Project Modules
+## AI Features
 
-AI StudyMate provides different smart learning tools:
+The application uses AI to:
 
-- AI Chat for instant answers
-- Notes Summarizer for converting lengthy notes into simple summaries
-- Quiz Generator for exam preparation
-- Viva Generator for practice questions
-- Study Planner for organizing study routine
-- History for saving previous activities
+- Answer study-related questions
+- Summarize lengthy notes into simple points
+- Generate quizzes for exam preparation
+- Generate viva questions for practice
 
-## 🤖 AI Features
+### AI Instructions
 
-AI StudyMate uses Artificial Intelligence to provide:
+The AI assistant is instructed to act as a study assistant that explains concepts clearly, summarizes notes, creates quizzes, and helps students prepare for exams using simple and easy-to-understand language.
 
-- AI Chat Assistant for answering study-related questions
-- Notes Summarizer to convert lengthy notes into simple summaries
-- Quiz Generator to create practice questions
-- Viva Generator to prepare important viva questions
-
-## 🧠 AI System Instructions
-
-The AI assistant follows these instructions:
-
-"You are an AI Study Assistant. Help students learn concepts clearly, summarize study material, generate quizzes, and provide exam preparation support using simple and understandable language."
-
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Next.js
 - React.js
 - Tailwind CSS
 - Firebase Authentication
 - Groq AI
-- Vercel Deployment
+- Vercel
 
-## 🛠️ Tools & Services
+## Project Structure
 
-- Next.js (Frontend Framework)
-- React.js (UI Development)
-- Tailwind CSS (Styling)
-- Firebase Authentication (User Management)
-- Groq AI (Artificial Intelligence Model)
-- Vercel (Deployment)
+The application consists of the following modules:
 
-## ▶️ How to Run Locally
+- AI Chat
+- Notes Summary
+- Quiz Generator
+- Viva Generator
+- Study Planner
+- History
 
-Install dependencies:
+## How to Run the Project
+
+Install the dependencies:
 
 ```bash
 npm install
 ```
 
-Run the project:
+Start the development server:
 
 ```bash
 npm run dev
 ```
 
-Open in browser:
+Open the application in your browser:
 
-```bash
+```text
 http://localhost:3000
 ```
 
-## 🌐 Live Demo
+## Live Demo
 
 https://ai-studymate-alpha.vercel.app
 
-## 📸 Screenshots
+## Screenshots
 
 ### Landing Page
+
 ![Landing Page](Landing%20Page.png)
 
 ### Dashboard
+
 ![Dashboard](Dashboard.png)
 
-### AI Chat Response
-![AI Chat Response](AI%20Chat%20Response.png)
+### AI Chat
 
-### Notes Summary Output 1
-![Notes Summary Output](Notes%20Summary%20Output.png)
+![AI Chat](AI%20Chat%20Response.png)
 
-### Notes Summary Output 2
-![Notes Summary Output 2](Notes%20Summary%20Output%20(2).png)
+### Notes Summary
 
-### Quiz Generator Output
-![Quiz Generator Output](Quiz%20Generator%20Output.png)
+![Notes Summary](Notes%20Summary%20Output.png)
 
-## 👩‍💻 Developer
+### Notes Summary (Example 2)
+
+![Notes Summary 2](Notes%20Summary%20Output%20(2).png)
+
+### Quiz Generator
+
+![Quiz Generator](Quiz%20Generator%20Output.png)
+
+## Developer
 
 Maryam Jamil
 
-## 📌 Purpose
+## Conclusion
 
-AI StudyMate helps students with AI-powered tools for learning, exam preparation, note summarization, quiz generation, viva practice, and study planning.
+AI StudyMate is a complete AI-powered learning application designed to help students study more efficiently. It combines multiple learning tools into a single platform, making exam preparation and daily study easier and more effective.
