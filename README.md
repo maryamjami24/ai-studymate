@@ -101,3 +101,21 @@ The AI assistant follows these instructions:
 - Vercel (Deployment)
 
 ## 📸 Screenshots
+
+### Landing Page
+![Landing Page](Landing%20Page.png)
+
+### Dashboard
+![Dashboard](Dashboard.png)
+
+### AI Chat Response
+![AI Chat Response](AI%20Chat%20Response.png)
+
+### Notes Summary Output 1
+![Notes Summary Output](Notes%20Summary%20Output.png)
+
+### Notes Summary Output 2
+![Notes Summary Output 2](Notes%20Summary%20Output%20(2).png)
+
+### Quiz Generator Output
+![Quiz Generator Output](Quiz%20Generator%20Output.png)
